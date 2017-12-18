@@ -62,10 +62,10 @@ class Linter(Command):
         call('radon mi --min=C ' + files, shell=True)
 
 
-setup(name='pyccc',
+setup(name='pycccl',
       version="0.1.0",
-      description='Python (C)rypto (C)urrency (C)ommon library.',
-      url='http://github.com/beraldoleal/pyccc',
+      description='Python (C)rypto (C)urrency (C)ommon (L)ibrary.',
+      url='http://github.com/beraldoleal/pycccl',
       author='Beraldo Leal',
       author_email='beraldo@gmail.com',
       license='MIT',
