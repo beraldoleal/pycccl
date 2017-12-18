@@ -1,4 +1,4 @@
-from pyccc.base import ExchangeBase
+from pycccl.base import ExchangeBase
 
 
 class CEXIO(ExchangeBase):
