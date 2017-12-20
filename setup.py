@@ -63,7 +63,7 @@ class Linter(Command):
 
 
 setup(name='pycccl',
-      version="0.1.0",
+      version="0.1.1",
       description='Python (C)rypto (C)urrency (C)ommon (L)ibrary.',
       url='http://github.com/beraldoleal/pycccl',
       author='Beraldo Leal',
