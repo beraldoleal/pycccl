@@ -70,7 +70,7 @@ Exchanges Supported
 ===================
 
 For now, we have support to: bitbay, bitfinex, bitstamp, blinktrade, cexio,
-liqui, poloniex and yobit.
+liqui, poloniex, yobit and Binance.
 
 Authors
 *******
